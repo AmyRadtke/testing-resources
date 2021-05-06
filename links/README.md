@@ -17,6 +17,7 @@ None Yet
 -	Classic Equivalence Class table
 -	Risk Equivalence Class table
 -	What to Automate Worksheet (by Angie Jones)
+-	[Guide to Markdown](https://www.markdownguide.org/)  Includes helpful Cheatsheet
 
 ## Tools
   Tools that I have used or heard about that are helpful when testing
@@ -35,10 +36,7 @@ None Yet
 -	My own Testing Guides (feel free to fork this)
 
 ### Useful Websites
--	Context Driven Testing
--	LAWST – The Los Altos Workshop on Software Testing
--	Association for Software Testing
--	A list of Software Testing Conferences
+-	[Association for Software Testing](http://associationforsoftwaretesting.org/)
 
 ### Other:
 -	Recommended Reading List
